@@ -1,0 +1,8 @@
+.main_footer {
+    grid-area: footer;
+    padding: 15px 0px;
+    background: #222;
+}
+.main_footer p {
+    color: #FFF;
+}

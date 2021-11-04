@@ -1,0 +1,17 @@
+.main_header {
+    position: relative;
+    background: #222;
+    grid-area: header;
+    width: 100%;
+    padding: 15px 0px;
+}
+.main_header .logo {
+    display: block;
+    width: 60px;
+    line-height: 0;
+    text-decoration: none;
+}
+.main_header .logo img {
+    width: 100%;
+    height: auto;
+}
